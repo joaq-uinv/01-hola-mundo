@@ -1,2 +1,7 @@
 # 01-hola-mundo
-Primer programa curso node fer valdes
+
+Primer programa del curso de node de fer valdes
+
+*Hola, mundo
+*Saludo
+\*setTimeOut
